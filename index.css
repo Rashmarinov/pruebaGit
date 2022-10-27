@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    height: 300px;
+    align-items: center;
+    margin: center;
+    background-image: linear-gradient(to left, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+
+
+@font-face {
+    font-family: "mitipo";
+    src: url();
+}
